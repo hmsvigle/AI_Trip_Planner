@@ -26,4 +26,15 @@ Using Python 3.13.5 environment at: env
 ## install Langchain
  uv pip install langchain
 
-## 
+## uv pip list --> all packages with langchain
+
+## Directories 
+  * agent: agentic workflow to be written
+  * config: all the config files in yaml format
+  * prompt_library: prompts to be written
+  * tools: all reqyired tools 
+  * utils: all utilities 
+  * .env file: env specific information
+  * app.py: application code
+  * main.py: program initiates from main.py file
+  * __init__.py: inside each directory
