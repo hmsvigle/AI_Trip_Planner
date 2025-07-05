@@ -37,4 +37,15 @@ Using Python 3.13.5 environment at: env
   * .env file: env specific information
   * app.py: application code
   * main.py: program initiates from main.py file
-  * __init__.py: inside each directory
+  * __init__.py: inside each directory, Python treats directories containing an __init__.py file as packages. so that import is easy
+  * notebook: experiments 
+  * logger: for logging
+  * exception: capture exceptions
+
+## Tools:
+  * currency_conversion_tool.py
+  * place_search_tool.py
+  * weather_info_tool.py
+  * arithmatic_op_tool.py
+  * calculator_tool.py
+  * logger 
