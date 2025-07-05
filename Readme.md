@@ -49,3 +49,19 @@ Using Python 3.13.5 environment at: env
   * arithmatic_op_tool.py
   * calculator_tool.py
   * logger 
+## Requirements Update
+  * fastapi: create endpoint using fastapi
+  * python-dotenv: interact with python env through python-dotenv
+  * streamlit: print on ui, not on terminal
+  * uvicon: running server
+  * -e . --> its for all local packages
+## setup.py : setup is the main function.
+## Install requirements:
+  * initiate venv
+    uv venv env --python  cpython-3.13.5-macos-aarch64-none
+  * source activate code
+    source env/bin/activate
+  * run activate script
+    zsh /Users/himansu.panigrahy/Documents/Personal_Projects/AI-Projects/AI_Trip_Planner/env/bin/activate
+  * install requirements
+    uv pip install -r requirements.txt
