@@ -65,3 +65,14 @@ Using Python 3.13.5 environment at: env
     zsh /Users/himansu.panigrahy/Documents/Personal_Projects/AI-Projects/AI_Trip_Planner/env/bin/activate
   * install requirements
     uv pip install -r requirements.txt
+## Add Pandas
+  * uv add pandas
+  * This will update pyproject.toml file pandas as dependency 
+    ```sh
+      dependencies = [
+      "pandas>=2.3.0",
+      ]
+    ```
+  * also create a file uv.lock 
+## config.yaml - Model configs
+## model_loader.py - for each model_provider parameters defined
