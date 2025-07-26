@@ -2,7 +2,27 @@
 # Environment setup before proceeding further
 * UV is a package manager. A wrapper over python
 ## check the list of installations in the env
-uv pip list
+$ uv pip list
+cpython-3.14.0b3-macos-aarch64-none                 <download available>
+cpython-3.14.0b3+freethreaded-macos-aarch64-none    <download available>
+cpython-3.13.5-macos-aarch64-none                   /opt/homebrew/bin/python3.13 -> ../Cellar/python@3.13/3.13.5/bin/python3.13
+cpython-3.13.5-macos-aarch64-none                   /opt/homebrew/bin/python3 -> ../Cellar/python@3.13/3.13.5/bin/python3
+cpython-3.13.5-macos-aarch64-none                   /Users/himansu.panigrahy/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/bin/python3.13
+cpython-3.13.5+freethreaded-macos-aarch64-none      <download available>
+cpython-3.12.11-macos-aarch64-none                  <download available>
+cpython-3.11.13-macos-aarch64-none                  <download available>
+cpython-3.10.18-macos-aarch64-none                  <download available>
+cpython-3.9.23-macos-aarch64-none                   <download available>
+cpython-3.9.6-macos-aarch64-none                    /usr/bin/python3
+cpython-3.8.20-macos-aarch64-none                   <download available>
+pypy-3.11.11-macos-aarch64-none                     <download available>
+pypy-3.10.16-macos-aarch64-none                     <download available>
+pypy-3.9.19-macos-aarch64-none                      <download available>
+pypy-3.8.16-macos-aarch64-none                      <download available>
+graalpy-3.11.0-macos-aarch64-none                   <download available>
+graalpy-3.10.0-macos-aarch64-none                   <download available>
+graalpy-3.8.5-macos-aarch64-none                    <download available>
+
 Using Python 3.13.5 environment at: /opt/homebrew/opt/python@3.13/Frameworks/Python.framework/Versions/3.13
 Package Version
 ------- -------
